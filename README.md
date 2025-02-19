@@ -1,3 +1,5 @@
+![Mini Shell PHP Script Overview](https://r00t-shell.com/wp-content/uploads/2025/02/Mini-Shell-PHP-Script.png "Mini Shell PHP Script Overview")
+
 # Analysis of the Mini Shell PHP Script
 
 **Warning:** The provided code is a PHP-based web shell, often used for malicious purposes. It allows users to execute commands on a server, manage files, and gather server information.
@@ -60,7 +62,5 @@ The Mini Shell PHP script is a powerful tool that can be used for both legitimat
 - **Implement Security Measures:** Use firewalls, intrusion detection systems, and regular security audits to protect the server.
 - **Keep Software Updated:** Ensure that all server software, including PHP and web servers, are up to date with the latest security patches.
 - **Limit Permissions:** Restrict file and directory permissions to minimize the impact of potential exploits.
-
-![Mini Shell PHP Script Overview](https://r00t-shell.com/wp-content/uploads/2025/02/Mini-Shell-PHP-Script.png "Mini Shell PHP Script Overview")
 
 *Developed By R00t*
